@@ -1,0 +1,19 @@
+{
+  "auth": "Авторизация",
+  "email": "Email",
+  "password": "Пароль",
+  "login": "Войти",
+  "signUp": "Зарегистрироваться",
+  "signOut": "Выйти",
+  "requestFailed": "Запрос не выполнен",
+  "transactions": "Транзакции",
+  "emailIsNotCorrect": "Email не коректен",
+  "passwordIsNotCorrect": "Пароль не коректен",
+  "replenishment":"Пополнение",
+  "withdrawal": "Снятие",
+  "transfer": "Перевод",
+  "details": "Детали",
+  "cancel": "Отменить",
+  "bottomNavigationBar": {
+  }
+}

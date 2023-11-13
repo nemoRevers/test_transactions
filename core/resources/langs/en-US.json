@@ -1,0 +1,19 @@
+{
+  "auth": "Authorization",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "signUp": "Sgn up",
+  "signOut": "Sign out",
+  "transactions": "Transactions",
+  "requestFailed": "Request failed",
+  "emailIsNotCorrect": "Email is not correct",
+  "passwordIsNotCorrect": "Password is not correct",
+  "replenishment":"Replenishment",
+  "withdrawal": "Withdrawal",
+  "transfer": "transfer",
+  "details": "Details",
+  "cancel": "Cancel",
+  "bottomNavigationBar": {
+  }
+}
